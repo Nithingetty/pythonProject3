@@ -1,0 +1,1 @@
+s = "nitin"print(s==s[::-1])        
